@@ -1,0 +1,6 @@
+{
+    "ficturesfolder": "src/cypress/fictures",
+    "integrationforlder": "src/cypress/integration",
+    "pluginsfolder": "src/cypress/plugins/index.js",
+    "supportfolder": "src/cypress/support/index.js"
+}
